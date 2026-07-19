@@ -5,7 +5,7 @@
 
 Click the link below to open the Flood Prediction System.
 
-👉 [Flood Prediction](https://haseenarock27-web.github.io/Rising-Water/)
+https://rising-water-ts6s.onrender.com
 
 ## 📌 Project Overview
 Rising-Water is a Machine Learning-based Flood Prediction System that predicts whether there is a flood risk based on environmental and weather parameters. The project uses a trained Random Forest model and provides predictions through a Flask web application.
