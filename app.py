@@ -4,9 +4,8 @@ import joblib
 
 app = Flask(__name__)
 
-# Load model and scaler
-model = joblib.load("models/flood_model.joblib")
-scaler = joblib.load("models/scaler.joblib")
+model = joblib.load("flood_model.joblib")
+scaler = joblib.load("scaler.joblib")
 
 
 @app.route("/")
